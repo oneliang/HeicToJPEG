@@ -1,6 +1,6 @@
 # HeicToJPEG
 
-基于 `python3.6` 和 `Windows平台`
+基于 `python3.6` 和 `Windows` 平台
 
 ## 打包
 
